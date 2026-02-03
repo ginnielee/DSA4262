@@ -1,0 +1,10 @@
+DSA4262-1/Assignment 1/data/
+*.csv
+*.tsv
+*.xlsx
+*.sav
+*.dta
+*.rds
+*.tab
+
+.ipynb_checkpoints/
