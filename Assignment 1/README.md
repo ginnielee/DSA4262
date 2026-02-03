@@ -1,6 +1,3 @@
-# DSA4262
-DSA4262 SENSE-MAKING CASE ANALYSIS: HEALTH AND MEDICINE
-
 ## Contents 
 ### Assignment 1
 - `DSA4262_1.ipynb`: Analysis and visualisation code
